@@ -12,6 +12,7 @@ I have just learnt :-
 - JavaScript
 - Redux
 - React
+- SQL
 
 and many things.
 
